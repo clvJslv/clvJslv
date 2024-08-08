@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu Sou Clovis Silva</h1>
 <h3 align="center">Analista de Dados e Cientista de Dados em Formação| Power BI | Python</h3>
 
-- 🌱 Atualmente estou aprendendo **Machine Learning e Python**
+- 🌱 Analista de dados e Cientista em Formação
 
 - 💬 Pergunte-me sobre **Power BI, Dax, Excel, SQL**
 
